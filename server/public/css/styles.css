@@ -1,0 +1,31 @@
+
+body {
+  background-color: #E8ECEF;
+  background: #eee;
+  background-image: url("/img/fabric-of-squares.png");
+}
+.jumbotron{
+  background-color: #E8ECEF;
+  background: #eee;
+  background-image: url("/img/fabric-of-squares.png");
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.fa-lightbulb{
+  color: #f5ba13;
+}
+
+.display-3{
+  font-family: "McLaren", cursive;
+}
